@@ -1,4 +1,4 @@
-# Project Titl
+# Project Title
 
 ## Full Stack
 
